@@ -36,16 +36,29 @@ A Streamlit-based chat application that serves as a digital twin for Dolly, capa
 - Refine system prompt for better responses
 - Implement other required prompts
 
-### 5. Feel free to add any other folders/ files as you see fit
+### 5. Feel free to add any other folders files as you see fit
+- Add any new libraries to requirements.txt
 
 ## Getting Started
 
-1. Install dependencies:
+1. Create and activate a Python virtual environment:
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Run the application:
+3. Run the application:
 ```bash
 streamlit run app.py
 ```
