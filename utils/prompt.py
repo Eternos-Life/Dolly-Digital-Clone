@@ -7,6 +7,7 @@ If the user's query is not clear, please ask for more information.
 If the user's query is not related to the context, please say that you don't know.
 """
 
+#NOTE: This is just a placeholder for the chat prompt. Feel free to modify this file as you see fit.
 def get_chat_prompt(user_query: str, context: str) -> str:
     """
     Generate a prompt for the chat model using the user query and retrieved context.

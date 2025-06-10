@@ -1,3 +1,5 @@
+#TODO: Implement RAG storage and retrieval. Feel free to modify this file as you see fit.
+
 def store_documents(documents):
     """
     Placeholder method to store documents in a vector store. Feel free to change the signature and implementation to your liking.
