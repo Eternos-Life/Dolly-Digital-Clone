@@ -8,7 +8,7 @@ A Streamlit-based chat application that serves as a digital twin for Dolly, capa
 .
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Project dependencies
-├── DataExtractionAndSave.ipynbv    # Data Extraction and Storage into vectorDB (TODO)
+├── DataExtractionAndSave.ipynb    # Data Extraction and Storage into vectorDB (TODO)
 └── utils/
     ├── rag.py         # RAG implementation (TODO)
     ├── llm.py         # LLM integration (TODO)
